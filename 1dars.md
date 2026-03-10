@@ -1,1 +1,1 @@
-pwd - joriy papkani ko'rish
+## pwd - joriy papkani ko'rish
